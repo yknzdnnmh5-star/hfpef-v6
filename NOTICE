@@ -1,3 +1,15 @@
+## Licences
+
+**Code** is licensed under the GNU General Public License v3.0; see
+[`LICENSE`](LICENSE). The model is built entirely on
+[hesim](https://hesim-dev.github.io/hesim/) (Incerti D, Jansen JP), which is
+GPL-3, so the same terms carry over.
+
+**Prose and generated figures** (README, rendered reports, slides) are licensed
+under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+## Carve-outs
+
 **`figures/cohen2023-figure1A-model-diagram.png`** is panel A of Figure 1 of
 Cohen LP, Isaza N, Hernandez I, et al. *JAMA Cardiol.* 2023;8(5):419-428,
 © American Medical Association. It is **not in this repository** and is not
